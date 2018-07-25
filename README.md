@@ -8,7 +8,7 @@ Salut moussaillon tu vas bien?
 
 Dans ce README il y a un exo d'une app rails d'un Hacking News, avec des models et des associations.
 
-Lancer l'appli : 
+Lancer l'appli :
 
 Verifie ta version de Ruby : 5.2.1 !
 
@@ -33,5 +33,5 @@ qui peuvent être commentés
 
 Bon THP à toi moussaillon!
 
-
-
+A bientôt, de la part de l'équipe de mousssaillonnes St Lazare :
+Laëtitia, Diane, Clyde, Perrine, Garance, Asmahane
